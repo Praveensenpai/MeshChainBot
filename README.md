@@ -60,7 +60,7 @@ SLEEP_DELAY_MINUTES=1
 | --------------------- | --------------------------------------------- |
 | `API_ID`              | Your Telegram API ID                          |
 | `API_HASH`            | Your Telegram API Hash                        |
-| `REF_ID`              | Referral ID from the start link               |
+| `REF_ID`              | Referral ID from the referral link            |
 | `SESSION_NAME`        | Session name (e.g., `mesh`)                   |
 | `PHONE`               | Your phone number                             |
 | `SLEEP_DELAY_MINUTES` | Random Delay between task cycles (in minutes) |
