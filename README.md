@@ -56,14 +56,14 @@ PHONE=+91
 SLEEP_DELAY_MINUTES=1
 ```
 
-| Key                   | Description                            |
-| --------------------- | -------------------------------------- |
-| `API_ID`              | Your Telegram API ID                   |
-| `API_HASH`            | Your Telegram API Hash                 |
-| `REF_ID`              | Referral ID from the start link        |
-| `SESSION_NAME`        | Session name (e.g., `mesh`)            |
-| `PHONE`               | Your phone number                      |
-| `SLEEP_DELAY_MINUTES` | Delay between task cycles (in minutes) |
+| Key                   | Description                                   |
+| --------------------- | --------------------------------------------- |
+| `API_ID`              | Your Telegram API ID                          |
+| `API_HASH`            | Your Telegram API Hash                        |
+| `REF_ID`              | Referral ID from the start link               |
+| `SESSION_NAME`        | Session name (e.g., `mesh`)                   |
+| `PHONE`               | Your phone number                             |
+| `SLEEP_DELAY_MINUTES` | Random Delay between task cycles (in minutes) |
 
 ---
 
