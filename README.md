@@ -1,6 +1,6 @@
 # MeshChainBot
 
-**MeshChainBot** automates claiming points on the Mesh platform every 2 hours.
+**MeshChainBot** automates claiming points on the MeshChain Telegram Bot every 2 hours.
 
 ---
 
